@@ -1,0 +1,15 @@
+{
+    "name": "jonecoder/php-mvc-framework",
+    "autoload": {
+        "psr-4": {
+            "app\\": "./"
+        }
+    },
+    "authors": [
+        {
+            "name": "JoneCoder",
+            "email": "mohummadshorifulislam@gmail.com"
+        }
+    ],
+    "require": {}
+}
